@@ -1,0 +1,57 @@
+h1, h2, h3, h4, h5, h6 {
+  margin: 2px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(to right, #DDFFEE, #D685FF);
+}
+
+nav.linearColor {
+  background: linear-gradient(to right, #DDFFEE, #D685FF);
+  width: 100%;
+  top: 0;
+  border-bottom: 0.5px solid #e0dcdc;
+}
+
+nav.linearColor:hover {
+  background: linear-gradient(to right, #bff2d9, #b63cf4);
+}
+
+nav div#navbarNav ul.navbar-nav li.nav-item a {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.setting-panel {
+  margin: 50px 20px;
+}
+
+.left-bar, .right-bar {
+  background: white;
+  padding: 5px;
+  margin: 9px 2px;
+  box-shadow: 2px 3px #beb9b9;
+}
+
+.left-bar:hover, .right-bar:hover {
+  box-shadow: 2px 3px #50575c;
+}
+
+div.nav {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}

@@ -1,0 +1,52 @@
+nav.linearColor {
+  background: linear-gradient(to right, #DDFFEE, #D685FF);
+  height: 65px;
+  width: 100%;
+  top: 0;
+}
+
+div img {
+  width: 120px;
+}
+
+nav div#navbarNav ul.navbar-nav li.nav-item a {
+  font-size: 20px;
+}
+
+li.nav-item.dropdown.mr-3.borderLR {
+  border-right: #333 solid 1px;
+  border-left: #333 solid 1px;
+}
+
+li img.modifyImg {
+  width: 28px;
+}
+
+#showcase {
+  position: relative;
+  background: url("../img/mountain.png");
+  min-height: 350px;
+  background-size: cover;
+}
+
+div.container div.row div.moveTop {
+  margin-top: -48px;
+}
+
+#authors img {
+  margin-top: -75px;
+}
+
+/* #authors .card:hover {
+    background: linear-gradient(to right, #DDFFEE, #D685FF);
+  } */
+#authors .fab {
+  color: #333;
+}
+
+div.card-body div label.embeded {
+  margin-top: -90px;
+  margin-left: 60px;
+  position: absolute;
+  border-radius: 50%;
+}

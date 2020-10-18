@@ -1,0 +1,26 @@
+M�u gradien 1:
+
+#DDFFEE
+#D685FF
+
+(cho  background c?a sign in )
+-----------
+
+M�u c?a n�t sign in :
+
+#DCEBF1
+-----------
+
+1. M�u theme dark gradient:
+
+#DDFFEE
+#000000
+2. M�u c?a comment trong theme dark
+#C3C3C3
+-----------
+
+1. M�u theme light gradient:
+#DDFFEE
+#FFFFFF
+2. M�u c?a comment trong theme dark
+#FFFFFF
